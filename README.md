@@ -24,10 +24,9 @@ completed.
 
 # 4.GUI
 <p align="center">
-
     <img src="https://github.com/sergiugaga14/Data-Base-Management-/blob/master/u1.png" width="350" title="">
     <img src="https://github.com/sergiugaga14/Data-Base-Management-/blob/master/u2.png" width="350" title="">
-  <img src="https://github.com/sergiugaga14/Data-Base-Management-/blob/master/u3.png" width="350" title="">
+    <img src="https://github.com/sergiugaga14/Data-Base-Management-/blob/master/u3.png" width="350" title="">
     <img src="https://github.com/sergiugaga14/Data-Base-Management-/blob/master/u4.png" width="350" title="">
   
 </p>
