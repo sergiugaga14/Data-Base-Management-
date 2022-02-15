@@ -33,3 +33,18 @@ completed.
 
 
 # 5.Conclusions
+
+This assignment offered me a good opportunity to remember and apply the object-oriented 
+programming paradigms and concepts. It also offered us an insight into the process of designing and 
+developing a software application.
+Also, I have never worked using a connection to a database or with reflection techniques before and 
+it was a great opportunity to learn new things. I think that it is important that we had to deal with a real life 
+situation because that way we can truly understand the applicability of what we learn.
+What I will take with me from this experience is not to panic and try to stay calm and divide the 
+problem into smaller ones that are easier to deal with, because otherwise the project can be quite 
+overwhelming. Another thing is that testing frequently helps you avoid big errors on the long run.
+I can say that I am proud that I managed to do this project on my own and that I found solutions for 
+all the problems I had through intensive research.
+The project is not perfect, it can still be improved, I could add more functionalities to the data base 
+management , or design a friendlier and nicer GUI. The methods could also be improved as well as the 
+organization and use of the classes.
